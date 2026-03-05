@@ -18,7 +18,7 @@
 
 ---
 <p align="center">
-## 🌐 Connect With Me
+<h1>🌐 Connect With Me</h1> 
 </p>
 <p align="center">
 
@@ -46,7 +46,7 @@
 
 ---
 <p align="center">
-## 💻 Languages and Tools
+<h1>💻 Languages and Tools</h1>
 </p>
 <p align="center">
 
