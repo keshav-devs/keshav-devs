@@ -3,22 +3,24 @@
 </p>
 
 <p align="center">
-<b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Developer;Building+Real+World+Projects;Learning++Java+%7C+Full+Stack%7C+ML;Turning+Ideas+Into+Working+Products" alt="Typing SVG" /></a></b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Passionate+Developer;Building+Real+World+Projects;Learning+Java+%7C+Full+Stack+%7C+ML;Turning+Ideas+Into+Working+Products" />
 </p>
 
 ---
-## 🚀 About Me
 
-* 🎓 B.Tech CSE student passionate about building practical and impactful software
-* 💻 Currently focusing on **Java, Data Structures & Algorithms, and Full Stack Development**
-* 🌱 Exploring **React, backend development, and modern web technologies**
-* 🤝 Open to collaborating on **beginner-friendly open source and learning projects**
-* 💡 I enjoy turning ideas into real projects and constantly improving my skills
+### 🧑‍💻 About Me
+
+* 🎓 **B.Tech CSE student from India**
+* 💻 Learning **Java, Data Structures & Algorithms**
+* 🌱 Exploring **React, Backend Development & Modern Web Tech**
+* 🤝 Open to **learning-focused collaborations**
+* 💡 I enjoy **turning ideas into real working projects**
 
 ---
-<h1 align="center">🌐 Connect With Me</h1>
 
-<p align="center">
+### 🌐 Connect With Me
+
+<p align="left">
 
 <a href="https://github.com/keshav-devs">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
@@ -44,9 +46,9 @@
 
 ---
 
-<h1 align="center">💻 Languages and Tools</h1>
+### 🛠 Tech
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=c" height="45"/>
 <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
@@ -66,4 +68,3 @@
 <p align="center">
 ⭐ Always learning • Always building • Always improving
 </p>
-
