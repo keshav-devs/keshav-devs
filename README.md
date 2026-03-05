@@ -1,4 +1,6 @@
-# Hi 👋, I'm Keshav
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!👋,%20I'm%20Keshav&textBg=false"/>
+</p>
 
 <p align="center">
 <b>A passionate developer who enjoys building real-world projects</b>
