@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Developer;Building+Real+World+Projects;Learning+Java+%7C+React+%7C+ML;Turning+Ideas+Into+Working+Products" alt="Typing SVG" /></a></b>
+<b><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Developer;Building+Real+World+Projects;Learning +Java+%7C+Full Stack+%7C+ML;Turning+Ideas+Into+Working+Products" alt="Typing SVG" /></a></b>
 </p>
 
 ---
