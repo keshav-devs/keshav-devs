@@ -7,17 +7,15 @@
 </p>
 
 ---
-<p align="center"> 
-<h1>  About Me </h1>
+## 🚀 About Me
 
-* 🔭 Currently working on **a Full Stack Project**
-* 🌱 Currently learning **Java & React.js**
-* 👯 Looking to collaborate on **Beginner-friendly Open Source Projects**
-* 🤝 Looking for help with **Website Design & Problem Solving**
-* 💬 Ask me about **Project ideas and improving functionality + UI**
+* 🎓 B.Tech CSE student passionate about building practical and impactful software
+* 💻 Currently focusing on **Java, Data Structures & Algorithms, and Full Stack Development**
+* 🌱 Exploring **React, backend development, and modern web technologies**
+* 🤝 Open to collaborating on **beginner-friendly open source and learning projects**
+* 💡 I enjoy turning ideas into real projects and constantly improving my skills
 * 📫 Reach me at **[keshavgupta8667@gmail.com](mailto:keshavgupta8667@gmail.com)**
-* ⚡ Fun fact: **I enjoy turning ideas into real working projects**
-  </p> 
+
 ---
 <p align="center">
 ## 🌐 Connect With Me
