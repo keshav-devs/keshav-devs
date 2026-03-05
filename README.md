@@ -14,7 +14,6 @@
 * 🌱 Exploring **React, backend development, and modern web technologies**
 * 🤝 Open to collaborating on **beginner-friendly open source and learning projects**
 * 💡 I enjoy turning ideas into real projects and constantly improving my skills
-* 📫 Reach me at **[keshavgupta8667@gmail.com](mailto:keshavgupta8667@gmail.com)**
 
 ---
 <h1 align="center">🌐 Connect With Me</h1>
