@@ -7,8 +7,8 @@
 </p>
 
 ---
-<!-- <p align="center"> -->
-## 🚀 About Me
+<p align="center"> 
+<h1> 🚀 About Me </h1>
 
 * 🔭 Currently working on **a Full Stack Project**
 * 🌱 Currently learning **Java & React.js**
@@ -17,7 +17,7 @@
 * 💬 Ask me about **Project ideas and improving functionality + UI**
 * 📫 Reach me at **[keshavgupta8667@gmail.com](mailto:keshavgupta8667@gmail.com)**
 * ⚡ Fun fact: **I enjoy turning ideas into real working projects**
-<!-- </p> -->
+  </p> 
 ---
 <p align="center">
 ## 🌐 Connect With Me
