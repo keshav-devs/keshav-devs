@@ -1,13 +1,7 @@
 # Hi 👋, I'm Keshav
 
 <p align="center">
-  <b>A passionate developer who enjoys building real-world projects</b>
-</p>
-
-<p align="center">
-<a href="https://twitter.com/gupta_keshav_01" target="_blank">
-<img src="https://img.shields.io/twitter/follow/gupta_keshav_01?logo=twitter&style=for-the-badge"/>
-</a>
+<b>A passionate developer who enjoys building real-world projects</b>
 </p>
 
 ---
