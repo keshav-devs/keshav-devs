@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+<p align="center">
 ## 🚀 About Me
 
 * 🔭 Currently working on **a Full Stack Project**
@@ -17,11 +17,11 @@
 * 💬 Ask me about **Project ideas and improving functionality + UI**
 * 📫 Reach me at **[keshavgupta8667@gmail.com](mailto:keshavgupta8667@gmail.com)**
 * ⚡ Fun fact: **I enjoy turning ideas into real working projects**
-
+</p>
 ---
-
+<p align="center">
 ## 🌐 Connect With Me
-
+</p>
 <p align="center">
 
 <a href="https://github.com/keshav-devs">
@@ -47,9 +47,9 @@
 </p>
 
 ---
-
+<p align="center">
 ## 💻 Languages and Tools
-
+</p>
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=c" height="45"/>
