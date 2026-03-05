@@ -17,9 +17,8 @@
 * 📫 Reach me at **[keshavgupta8667@gmail.com](mailto:keshavgupta8667@gmail.com)**
 
 ---
-<p align="center">
-<h1>🌐 Connect With Me</h1> 
-</p>
+<h1 align="center">🌐 Connect With Me</h1>
+
 <p align="center">
 
 <a href="https://github.com/keshav-devs">
@@ -45,9 +44,9 @@
 </p>
 
 ---
-<p align="center">
-<h1>💻 Languages and Tools</h1>
-</p>
+
+<h1 align="center">💻 Languages and Tools</h1>
+
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=c" height="45"/>
@@ -68,3 +67,4 @@
 <p align="center">
 ⭐ Always learning • Always building • Always improving
 </p>
+
