@@ -8,7 +8,7 @@
 
 ---
 <p align="center"> 
-<h1> 🚀 About Me </h1>
+<h1>  About Me </h1>
 
 * 🔭 Currently working on **a Full Stack Project**
 * 🌱 Currently learning **Java & React.js**
