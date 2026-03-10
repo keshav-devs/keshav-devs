@@ -34,10 +34,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/>
 </a>
 
-<a href="https://twitter.com/gupta_keshav_01">
-<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
-
 <a href="https://leetcode.com/keshav_gupta012">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
 </a>
